@@ -1,3 +1,5 @@
+_Note: This library is no longer maintained by Arduino. Use https://github.com/arduino-libraries/ArduinoBearSSL[ArduinoBearSSL] instead._
+
 = ArduinoBearSSL =
 
 Port of https://bearssl.org[BearSSL] to Arduino.
